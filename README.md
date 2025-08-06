@@ -4,6 +4,17 @@ This project is a personalized movie recommendation system that suggests the Top
 Built using the Surprise library and Singular Value Decomposition (SVD) algorithm, 
 the system is designed to help users discover movies they'll likely enjoy—just like Netflix!
 
+# Problem Statements 
+1. Find out the list of most popular and liked ratings.
+   most popular and liked ratings = rated maximum times
+
+2. Create a model that finds the best-suited movie for one user in every rating.
+
+3. Find what movies received the best and worst ratings based on user rating.
+    list the movies having :
+	  best ratings --> 5 ratings
+	  worst ratings --> 1 rating
+
 # 📌 Features
 
 ✅ Predicts top 10 movie recommendations for each user ID
