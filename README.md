@@ -22,7 +22,14 @@ the system is designed to help users discover movies they'll likely enjoy—just
 	  best ratings --> 5 ratings
 
 	  worst ratings --> 1 rating
-   
+---
+# Datasets 
+Netflix Dataset consist in two files, 
+1. movie titles in csv format  ------>>  'movies_tiles.csv' -->> in data folder 
+
+2. combined_txt which contains user_id, movie_id and Ratings ---------->>  dataset link (combined_txt) -->>
+   https://drive.google.com/file/d/14UWjvNZ5pLNtuM4IWMkRHWB1zCDmSOVW/view?usp=sharing
+
 ---
 # 📌 Features
 
@@ -79,4 +86,4 @@ Include genres, tags, or user demographic data
 Deploy via Streamlit for interactive use
 
 
-dataset link -- https://drive.google.com/file/d/14UWjvNZ5pLNtuM4IWMkRHWB1zCDmSOVW/view?usp=sharing
+
