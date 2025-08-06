@@ -1,9 +1,14 @@
 # **🎬 Netflix Recommendation System | SVD-Based Movie Recommender**
 
+![Netflix_Recommendation](images/netflix_recommendation_engine.png)
+
+---
+# Overview 
 This project is a personalized movie recommendation system that suggests the Top 10 movies per user based on their historical ratings.
 Built using the Surprise library and Singular Value Decomposition (SVD) algorithm, 
 the system is designed to help users discover movies they'll likely enjoy—just like Netflix!
 
+---
 # Problem Statements 
 1. Find out the list of most popular and liked ratings.
    most popular and liked ratings = rated maximum times
@@ -17,7 +22,8 @@ the system is designed to help users discover movies they'll likely enjoy—just
 	  best ratings --> 5 ratings
 
 	  worst ratings --> 1 rating
-
+   
+---
 # 📌 Features
 
 ✅ Predicts top 10 movie recommendations for each user ID
@@ -30,6 +36,7 @@ the system is designed to help users discover movies they'll likely enjoy—just
 
 ✅ Extracts insights from the rating distribution and movie popularity
 
+---
 # 🧠 Project Highlights
 
 Model: Surprise SVD (Matrix Factorization)
@@ -40,6 +47,7 @@ Most Common Rating: 4 stars
 
 Data Insight: Ratings of 4 were the most common, followed by 3 and 5.
 
+---
 # 🗂️ Dataset
 
 User-movie ratings file (user ID, movie ID, rating)
@@ -50,6 +58,7 @@ Ratings dataset used for training and predictions
 
 Note: The dataset is a simulated version of Netflix-style user preferences.
 
+---
 # 🧪 Libraries Used
 
 pandas – Data manipulation and preprocessing
@@ -60,6 +69,7 @@ surprise – Model building with SVD
 
 matplotlib – Visualization (optional, for insights)
 
+---
 # 💡 Future Improvements
 
 Add content-based filtering to enhance cold-start recommendations
