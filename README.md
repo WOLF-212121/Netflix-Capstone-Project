@@ -11,8 +11,11 @@ the system is designed to help users discover movies they'll likely enjoy—just
 2. Create a model that finds the best-suited movie for one user in every rating.
 
 3. Find what movies received the best and worst ratings based on user rating.
+
     list the movies having :
+
 	  best ratings --> 5 ratings
+
 	  worst ratings --> 1 rating
 
 # 📌 Features
