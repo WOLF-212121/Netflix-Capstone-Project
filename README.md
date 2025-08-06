@@ -1,7 +1,5 @@
 # **🎬 Netflix Recommendation System | SVD-Based Movie Recommender**
-
 ![Netflix_Logo](images/netflix_logo.png)
-
 ![Netflix_Recommendation](images/netflix_recommendation_engine.png)
 
 ---
